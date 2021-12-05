@@ -64,7 +64,7 @@ You can use our pipline from **here** transform annotated images from existing o
 
 **Annotations for LOD**
 
-We provide the per-image '.xml' files here: [**RGB-normal-Annotations**](https://pan.baidu.com/s/1mk-qOeofXR5gBT9i1Az04A), [**RGB-dark-Annotations**](https://pan.baidu.com/s/1jJ7jRAD1mrXcjHnvxHTPXA), [**RAW-normal-Annotations**](https://pan.baidu.com/s/14W1U77dslKoQyXme6YsEmw), [**RAW-dark-Annotations**.](https://pan.baidu.com/s/1pFAwtaX4ufuZaMy31Sv0AA)(Extraction Code: 2021)
+We provide the per-image '.xml' files here: [**RGB-normal-Annotations**](https://pan.baidu.com/s/1mk-qOeofXR5gBT9i1Az04A), [**RGB-dark-Annotations**](https://pan.baidu.com/s/1jJ7jRAD1mrXcjHnvxHTPXA), [**RAW-normal-Annotations**](https://pan.baidu.com/s/14W1U77dslKoQyXme6YsEmw), [**RAW-dark-Annotations**](https://pan.baidu.com/s/1pFAwtaX4ufuZaMy31Sv0AA). (Extraction Code: 2021)
 
 
 
