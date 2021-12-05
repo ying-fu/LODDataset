@@ -74,13 +74,13 @@ The original raw data is much larger. If you need to process the data in a diffe
 
 
 
-And you can download the camera output original sRGB data here: [**all_rgb**](https://pan.baidu.com/s/1p1lO9KDoNcLih0eIM_kUQQ).(Extraction Code: 2021)
+And you can download the camera output original sRGB data here: [**all_rgb**](https://pan.baidu.com/s/1p1lO9KDoNcLih0eIM_kUQQ). (Extraction Code: 2021)
 
 
 
 ### Tips:
 
-1.  \1. We provide all files in **Baidu Drive**, and the extraction code of all files is “2021”.
+1. We provide all files in **Baidu Drive**, and the extraction code of all files is “2021”.
 2. Note that each short-exposure image correspond to one long-exposure image as Ground Truth.
 3. We provide the camera output raw data of Canon EOS 5D Mark IV camera so that you can process the data in a different way, but the original raw data is much larger. 
 4.  We name all images with a purely numeric number, paired long/short-exposure images file names of the same format are corresponding(short-exposure image file name= long -exposure image file name+1). For example, for “1.JPG”, the file name of the corresponding short exposure image is “2. JPG”; for “11.JPG”, the file name of the corresponding long exposure image is “12.CR2”.
