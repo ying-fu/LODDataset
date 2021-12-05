@@ -40,25 +40,25 @@ You can use our pipline from **here** transform annotated images from existing o
 
 1. RGB-normal(long-exposure normal-light images in sRGB format) images: 
 
-[**[RGB-normal-images]**](https://pan.baidu.com/s/1CEFDrd0SeVmsZG_MekzpPQ) (Extraction Code: 2021)
+[**[RGB-normal-images]**](https://pan.baidu.com/s/1CEFDrd0SeVmsZG_MekzpPQ). (Extraction Code: 2021)
 
 
 
 2. RGB-dark(short-exposure low-light images in sRGB format) images: 
 
-[**[RGB-dark-images]**](https://pan.baidu.com/s/1yilj1ei6nIYsCMkNxLqOFg)(Extraction Code: 2021)
+[**[RGB-dark-images]**](https://pan.baidu.com/s/1yilj1ei6nIYsCMkNxLqOFg). (Extraction Code: 2021)
 
 
 
 3. RAW-normal(long-exposure normal-light images in RAW format) images:
 
-[**[RAW-normal-images]**](https://pan.baidu.com/s/1gmkIbr86dKMSs2xBKy6_-A)(Extraction Code: 2021)
+[**[RAW-normal-images]**](https://pan.baidu.com/s/1gmkIbr86dKMSs2xBKy6_-A). (Extraction Code: 2021)
 
 
 
 4. RAW-dark(short-exposure low-light images in RAW format) images:
 
-[**[RAW-dark-images]**](https://pan.baidu.com/s/1cWu7Y6GtiRV9itZEbop4VQ) (Extraction Code: 2021)
+[**[RAW-dark-images]**](https://pan.baidu.com/s/1cWu7Y6GtiRV9itZEbop4VQ). (Extraction Code: 2021)
 
 
 
