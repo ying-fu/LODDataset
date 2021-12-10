@@ -26,7 +26,7 @@ The code is tested on Python 3.7, PyTorch 1.7.0, TorchVision 0.8.1, but lower ve
 
 **Description**
 
-You can use our pipline to from **here** transform annotated images from existing object detection datasets(e.g., Pascal VOC, COCO) into their low-light counterparts. Feel free to replace our unprocessing or noise injection model for all of your data synthesis needs.
+You can use our pipline to transform annotated images from existing object detection datasets(e.g., Pascal VOC, COCO) into their low-light counterparts. Feel free to replace our unprocessing or noise injection model for all of your data synthesis needs.
 
 **Overal pipline**
 
@@ -98,15 +98,10 @@ Yang Hong, Kaixuan Wei, Linwei Chen, and Ying Fu, "Crafting Object Detection in 
 
 ```
 @inproceedings{Hong2021Crafting,
-
-	title={Crafting Object Detection in Very Low Light},
-
-	author={Yang Hong, Kaixuan Wei, Linwei Chen, Ying Fu},
-
-	booktitle={BMVC},
-
-	year={2021}
-	
+         title={Crafting Object Detection in Very Low Light},
+         author={Yang Hong, Kaixuan Wei, Linwei Chen, Ying Fu},
+         booktitle={BMVC},
+         year={2021}
 }
 ```
 
