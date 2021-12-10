@@ -26,7 +26,7 @@ The code is tested on Python 3.7, PyTorch 1.7.0, TorchVision 0.8.1, but lower ve
 
 **Description**
 
-You can use our pipline from **here** transform annotated images from existing object detection datasets(e.g., Pascal VOC, COCO) into their low-light counterparts. Feel free to replace our unprocessing or noise injection model for all of your data synthesis needs.
+You can use our pipline to from **here** transform annotated images from existing object detection datasets(e.g., Pascal VOC, COCO) into their low-light counterparts. Feel free to replace our unprocessing or noise injection model for all of your data synthesis needs.
 
 **Overal pipline**
 
@@ -66,7 +66,7 @@ You can use our pipline from **here** transform annotated images from existing o
 
 We provide the per-image '.xml' files here: [**RGB-normal-Annotations**](https://pan.baidu.com/s/1mk-qOeofXR5gBT9i1Az04A), [**RGB-dark-Annotations**](https://pan.baidu.com/s/1jJ7jRAD1mrXcjHnvxHTPXA), [**RAW-normal-Annotations**](https://pan.baidu.com/s/14W1U77dslKoQyXme6YsEmw), [**RAW-dark-Annotations**](https://pan.baidu.com/s/1pFAwtaX4ufuZaMy31Sv0AA). (Extraction Code: 2021)
 
-
+**UPDATE Dec, 2021:** Besides the per-image ".xml" files annotated by RGB-normal images using labelImg tool, we also provide another type of per-image ".xml" file annotated by RAW-normal images: [**RAW-normal-Annotations(raw_version)**](https://pan.baidu.com/s/1n4vL7p9KulbGVR9et7hiBw),[ **RAW-dark-Annotations(raw_version).**](https://pan.baidu.com/s/1HXwly01s9VPfiHNt49UwGA) (Extraction Code: 2021)
 
 ## Original sensor raw data
 
@@ -80,7 +80,7 @@ And you can download the camera output original sRGB data here: [**all_rgb**](ht
 
 ### Tips:
 
-1. We provide all files in **Baidu Drive**, and the extraction code of all files is “2021”.
+1. We provide all files in **[Baidu Drive]**, and the extraction code of all files is “2021”.
 2. Note that each short-exposure image correspond to one long-exposure image as Ground Truth.
 3. We provide the camera output raw data of Canon EOS 5D Mark IV camera so that you can process the data in a different way, but the original raw data is much larger. 
 4.  We name all images with a purely numeric number, paired long/short-exposure images file names of the same format are corresponding(short-exposure image file name= long -exposure image file name+1). For example, for “1.JPG”, the file name of the corresponding short exposure image is “2. JPG”; for “11.JPG”, the file name of the corresponding long exposure image is “12.CR2”.
@@ -94,19 +94,23 @@ If you use our dataset or code for research, please ensure that you cite our pap
 
 Yang Hong, Kaixuan Wei, Linwei Chen, and Ying Fu, "Crafting Object Detection in Very Low Light", in BMVC, 2021.
 
-> @inproceedings{Hong2021Crafting,
->
->  title={Crafting Object Detection in Very Low Light},
->
->  author={Yang Hong, Kaixuan Wei, Linwei Chen, Ying Fu},
->
->  booktitle={BMVC},
->
->  year={2021}.
+
+
+```
+@inproceedings{Hong2021Crafting,
+
+	title={Crafting Object Detection in Very Low Light},
+
+	author={Yang Hong, Kaixuan Wei, Linwei Chen, Ying Fu},
+
+	booktitle={BMVC},
+
+	year={2021}
+	
+}
+```
 
 ​          
-
-
 
 ## Questions
 
